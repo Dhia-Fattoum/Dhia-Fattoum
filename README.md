@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhia-fattoum" alt="dhia-fattoum" /></a> </p>
 
-- 🔭 I’m currently working on **RBK**
+- 🔭 I’m Studied on **RBK**
 
-- 🌱 I’m currently learning **VueJs,Reactjs,ReactNative,Expo,Angular**
+- 🌱 I’m currently Able to work with **Nextjs,Reactjs,ReactNative,Angular**
 
 - 💬 Ask me about **what ever you want .**
 
