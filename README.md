@@ -7,7 +7,7 @@
 
 - 🔭 I’m Studied on **RBK**
 
-- 🌱 I’m currently Able to work with **Nextjs,Reactjs,ReactNative,Angular**
+- 🌱 I’m able to work with **Nextjs,Reactjs,ReactNative,Angular**
 
 - 💬 Ask me about **what ever you want .**
 
